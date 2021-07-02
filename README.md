@@ -108,6 +108,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Remove invalid parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) (hard)
 ## Dynamic Programming
+* [Dynamic Programming Pattern](https://leetcode.com/discuss/general-discussion/458695/)
 * [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
 * [Jump game](https://leetcode.com/problems/jump-game/) (medium)
